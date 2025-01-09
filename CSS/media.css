@@ -1,0 +1,66 @@
+@media screen and (max-width: 480px) {
+    .mainbox {
+        max-width: 100%;
+    }
+
+    .temp {
+        font-size: 30px;
+    }
+
+    .container {
+        max-width: 100%;
+    }
+
+    .search-box input {
+        font-size: 12px;
+        padding: 0 30px 0 42px;
+    }
+
+    .h-or-s {
+        font-size: 16px;
+    }
+
+    .cityname {
+        font-size: 16px;
+    }
+
+    .hors-text {
+        font-size: 12px;
+    }
+
+    .humidity img,
+    .wind-speed img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .mainbox {
+        max-width: 90%;
+    }
+
+    .temp {
+        font-size: 36px;
+    }
+
+    .container {
+        max-width: 90%;
+    }
+
+    .search-box input {
+        font-size: 14px;
+    }
+
+    .h-or-s {
+        font-size: 18px;
+    }
+
+    .cityname {
+        font-size: 18px;
+    }
+
+    .hors-text {
+        font-size: 14px;
+    }
+}
